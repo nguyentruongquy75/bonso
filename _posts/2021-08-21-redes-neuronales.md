@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Một buổi chụp cần chuẩn bị những gì
-date: 2021-08-21 00:00:00 -0600
+date: 2023-08-22 00:00:00 -0600
 image: "https://images.unsplash.com/photo-1698778573868-75a5c62ab43e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw1fHx8ZW58MHx8fHx8"
 tags:
   [Inteligencia&nbspArtificial, Redes&nbspNeuronales, Tecnologia, Perceptron]

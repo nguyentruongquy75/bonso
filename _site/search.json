@@ -1,30 +1,21 @@
 [
   
     {
-      "title"    : "¿Cómo piensan las computadoras?",
-      "category" : "",
-      "tags"     : "Tecnologia and Inteligencia&nbspArtificial",
-      "url"      : "/como-piensan-las-computadoras",
-      "date"     : "Aug 30, 2021",
-      "image": "/images/rubik.jpg"
-    } ,
-  
-    {
       "title"    : "Một buổi chụp cần chuẩn bị những gì",
       "category" : "",
       "tags"     : "Inteligencia&nbspArtificial, Redes&nbspNeuronales, Tecnologia, and Perceptron",
       "url"      : "/redes-neuronales",
-      "date"     : "Aug 21, 2021",
+      "date"     : "Aug 22, 2023",
       "image": "https://images.unsplash.com/photo-1698778573868-75a5c62ab43e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw1fHx8ZW58MHx8fHx8"
     } ,
   
     {
-      "title"    : "¡Comencé a escribir este blog!",
+      "title"    : "3 ý tưởng chụp ảnh “phá đảo thế giới ảo” trong hè 2024",
       "category" : "",
-      "tags"     : "Blog, Tecnologia, and Branding",
-      "url"      : "/comence-a-escribir-este-blog",
-      "date"     : "Jul 2, 2021",
-      "image": "/images/blog_image.jpg"
+      "tags"     : "Blog, Photography, and Guide",
+      "url"      : "/test",
+      "date"     : "Jan 10, 2023",
+      "image": "https://d1j8r0kxyu9tj8.cloudfront.net/files/1654509541ylAdmN1oRvBEpjE.jpg"
     } 
   
 ]
