@@ -3,7 +3,7 @@
 # General Site Settings
 title: TruongQuy
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Developer & Photographer
+description: Developer Lỏrd
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "https://nguyentruongquy75.github.io/" # The base hostname & protocol for your site, e.g. http://example.com
 
@@ -12,7 +12,7 @@ url: "https://nguyentruongquy75.github.io/" # The base hostname & protocol for y
 author:
   avatar: "/images/01.jpg"
   name: Quy Nguyen
-  job: Developer & Photographer
+  job: Developer Lỏrd
 
 social:
   - {
