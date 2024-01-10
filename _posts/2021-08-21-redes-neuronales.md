@@ -39,7 +39,7 @@ con el sistema artificial.
 
 Si recuerdas tus clases de ciencias naturales podrías recordar a las células como la unidad básica fundamental de todo ser vivo, y a su vez como es que cada sistema del cuerpo humano posee células especializadas unidas en grandes cantidades para realizar los procesos que requiere, formando así a los sistemas del cuerpo humano nervioso, digestivo ... etc.
 
-![](/images/comparacion_2_image.jpg)
+![](https://images.unsplash.com/photo-1698778573868-75a5c62ab43e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw1fHx8ZW58MHx8fHx8)
 _Diferentes tipos de células en el cuerpo humano están especializadas para realizar determinados trabajos._
 
 Es entonces como la neurona biológica conforma la parte más pequeña, o la unidad mínima que compone al sistema nervioso y como la neurona artificial es como cualquier software, no es algo que sea tangible, no es algo que puedes tocar, en realidad se trata de reglas, un algoritmo o una representación matemática que intenta funcionar de manera que aproxime a la neurona biológica. Pero adentrarse a las matemáticas detrás de estas serán tema para otra publicación.

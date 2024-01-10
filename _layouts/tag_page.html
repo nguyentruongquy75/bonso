@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 {% assign slider_tag = page.tag %}
 <div class="container">
   <div class="row">
@@ -9,12 +10,15 @@ layout: default
         <div class="tag-slider">
           <div class="tag-slider__box">
             {% for post in site.tags[slider_tag] %}
-            <div class="tag-slider__item" style="background-image: url({{site.baseurl}}{{post.image}});"></div>
+            <div
+              class="tag-slider__item"
+              style="background-image: url({{site.baseurl}}{{post.image}});"
+            ></div>
             {% endfor %}
           </div>
         </div>
         <div class="archive-text">
-          <span class="archive-meta">Publicaciones con la etiqueta</span>
+          <span class="archive-meta">All posts tagged</span>
           <h1 class="archive-title">{{ page.tag }}</h1>
         </div>
       </div>
@@ -28,9 +32,8 @@ layout: default
       <div class="container__inner">
         <div class="contaniner__inner-box">
           <div class="row grid">
-            {% for post in page.posts %}
-              {% include article-content.html %}
-            {% endfor %}
+            {% for post in page.posts %} {% include article-content.html %} {%
+            endfor %}
           </div>
         </div>
       </div>
